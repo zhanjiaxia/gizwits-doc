@@ -15,11 +15,11 @@ var cacheBuster = function (uri) { return uri + '?' + Math.random() }
 // set style
 $.ajax(cacheBuster(cssHref)).success(function (style) {
   $head.append('<style>'+ style +'</style>')
-})
 
-// set javascript
-$.ajax(cacheBuster(jsSrc)).success(function (src) {
-  eval(src)
+  // set javascript, 确保在 css 后载入, 防止闪烁
+  $.ajax(cacheBuster(jsSrc)).success(function (src) {
+    eval(src)
+  })
 })
 
 })(jQuery)
