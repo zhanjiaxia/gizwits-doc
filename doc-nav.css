@@ -1,0 +1,63 @@
+
+/* 逸创-云客服 官方样式 */
+
+.content-sidebar .category-nav {
+  background: #fff;
+  border-radius: 3px;
+  padding: 15px;
+  border: 1px solid #e2eaec;
+  margin-bottom: 20px;
+}
+.content-sidebar .category-nav h3 {
+  font-size: 16px;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #e2eaec;
+}
+.content-sidebar .category-nav a {
+  color: #428bca;
+}
+.content-sidebar .category-nav a:hover {
+  color: #569fde;
+}
+.content-sidebar .category-nav li {
+  margin-bottom: 15px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* 自定义样式 */
+
+.category-nav * {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.category-nav ul {
+  padding: 15px 20px 0;
+  font-size: 16px;
+}
+
+.category-nav .category-nav-zones {
+  padding: 0;
+}
+
+.category-nav .zone-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.category-nav .cate-title {
+  font-weight: 600;
+}
+
+.category-nav li.category-nav-cate,
+.category-nav li.category-nav-zone {
+  margin-bottom: 0;
+}
+
+.content-sidebar .category-nav a.selected-article {
+  color: orange;
+}

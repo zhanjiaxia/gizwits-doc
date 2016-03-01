@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Category Nav</title>
+  <script src="https://ken.kf5.com/js/hc/vendor/jquery-1.8.3.js"></script>
+</head>
+<style>
+  .content-sidebar {
+    width: 280px;
+  }
+  a {
+    text-decoration: none;
+  }
+</style>
+<body>
+<div class="content-sidebar">
+</div>
+<script>
+  (function ($) {
+
+    var cssHref = 'https://raw.githubusercontent.com/zhanjiaxia/gizwits_doc/master/doc-nav.css'
+    var jsSrc = 'https://raw.githubusercontent.com/zhanjiaxia/gizwits_doc/master/doc-nav.js'
+
+    var $head = $('head').eq(0)
+    var cacheBuster = function (uri) { return uri + '?' + Math.random() }
+
+    // set style
+    $.ajax(cacheBuster(cssHref)).success(function (style) {
+      $head.append('<style>'+ style +'</style>')
+    })
+
+    // set javascript
+    $.ajax(cacheBuster(jsSrc)).success(function (src) {
+      eval(src)
+    })
+
+  })(jQuery)
+</script>
+</body>
+</html>
