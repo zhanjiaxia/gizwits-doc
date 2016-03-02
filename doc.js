@@ -1,8 +1,19 @@
 // 自定义脚本，添加文档分类导航
 (function ($) {
 
+var pathname = location.pathname
+var allowPathnames = ['/hc/kb/section', '/hc/kb/article']
+var allow = false
+
+$.each(allowPathnames, function (index, allowPathname) {
+  if (pathname.indexOf(allowPathname) === 0) {
+    allow = true
+    return false
+  }
+})
+
 // 是否在文档页，不在文档页则不执行
-if (location.pathname.indexOf('/hc/kb/article') !== 0) {
+if (!allow) {
   return
 }
 
@@ -22,4 +33,4 @@ $.ajax(cacheBuster(cssHref)).success(function (style) {
   })
 })
 
-})(jQuery)
+})(jQuery);
