@@ -65,6 +65,25 @@ var template = (function () {/*
             </ul>
           </li>
         </ul>
+        
+         <ul class="category-nav-cates">
+          <li class="category-nav-cate">
+            <div class="cate-title"><a href="https://gizwits.kf5.com/hc/kb/article/138329/" title="OPEN API">OPEN API</a></div>
+            <ul class="category-nav-articles">
+              <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138329/" title="概述">概述</a>
+              </li>
+              <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138294/" title="概述">API说明</a>
+              </li>
+               <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138331/" title="FAQ">FAQ</a>
+              </li>
+              
+            </ul>
+          </li>
+        </ul>
+        
       </li>
     </ul>
   </div>
