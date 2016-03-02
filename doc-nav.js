@@ -2,13 +2,13 @@
 
 var template = (function () {/*
   <div class="category-nav">
-    <h3>分类导航</h3>
+    <h3>开发文档</h3>
     <ul class="category-nav-zones">
       <li class="category-nav-zone">
-        <div class="zone-title"><a href="https://ken.kf5.com/hc/kb/category/20531/" title="帮助支持">帮助支持</a></div>
+        <div class="zone-title"><a href="https://ken.kf5.com/hc/kb/category/20531/" title="帮助支持">开发文档</a></div>
         <ul class="category-nav-cates">
           <li class="category-nav-cate">
-            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79597/" title="使用说明">使用说明</a></div>
+            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79597/" title="使用说明">IOS APP开发</a></div>
             <ul class="category-nav-articles">
               <li class="category-nav-article">
                 <a href="https://ken.kf5.com/hc/kb/article/137218/" title="代码测试文档">代码测试文档</a>
