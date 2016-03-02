@@ -14,13 +14,13 @@ var template = (function () {/*
                 <a href="https://gizwits.kf5.com/hc/kb/article/135399/" title="概述">概述</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="SDK说明">SDK说明</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138223/" title="SDK说明">SDK说明</a>
               </li>
                <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="ErrorCode说明">ErrorCode说明</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138220/" title="ErrorCode说明">ErrorCode说明</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="IOS app开发过程中的FAQ">FAQ</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138222/" title="IOS app开发过程中的FAQ">FAQ</a>
               </li>
             </ul>
           </li>
