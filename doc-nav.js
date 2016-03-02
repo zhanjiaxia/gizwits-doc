@@ -31,7 +31,7 @@ var template = (function () {/*
                 <a href="https://ken.kf5.com/hc/kb/article/137212/" title="概述">概述</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137213/" title="SDK"></a>
+                <a href="https://ken.kf5.com/hc/kb/article/137213/" title="SDK">SDK</a>
               </li>
               <li class="category-nav-article">
                 <a href="https://ken.kf5.com/hc/kb/article/137214/" title="ErrorCode">ErrorCode</a>
@@ -44,14 +44,24 @@ var template = (function () {/*
         </ul>
       </li>
       <li class="category-nav-zone">
-        <div class="zone-title"><a href="https://ken.kf5.com/hc/kb/category/20536/" title="DEMO-分区">DEMO-分区</a></div>
+        
         <ul class="category-nav-cates">
           <li class="category-nav-cate">
-            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79596/" title="公告与新闻">公告与新闻</a></div>
+            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79596/" title="H5应用开发">H5应用开发</a></div>
             <ul class="category-nav-articles">
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137210/" title="欢迎来到您的帮助中心">欢迎来到您的帮助中心</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="概述">概述</a>
               </li>
+              <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="概述">API说明</a>
+              </li>
+               <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="js调用的范例">示例</a>
+              </li>
+               <li class="category-nav-article">
+                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="FAQ">FAQ</a>
+              </li>
+              
             </ul>
           </li>
         </ul>
