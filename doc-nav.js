@@ -62,7 +62,7 @@ var template = (function () {/*
 
 var href = location.href
 
-$('.content-sidebar').append(template).find('a').each(function () {
+$('.content-sidebar').prepend(template).find('a').each(function () {
   var $this = $(this)
   if (href.indexOf($this.attr('href')) === 0) {
     $this.addClass('selected-article')
