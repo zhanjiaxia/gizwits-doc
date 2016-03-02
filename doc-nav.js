@@ -8,27 +8,36 @@ var template = (function () {/*
         <div class="zone-title"><a href="https://ken.kf5.com/hc/kb/category/20531/" title="帮助支持">开发文档</a></div>
         <ul class="category-nav-cates">
           <li class="category-nav-cate">
-            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79597/" title="使用说明">IOS APP开发</a></div>
+            <div class="cate-title"><a href="https://gizwits.kf5.com/hc/kb/article/135399/" title="IOS APP开发">IOS APP开发</a></div>
             <ul class="category-nav-articles">
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137218/" title="代码测试文档">代码测试文档</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/135399/" title="概述">概述</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="您的帮助中心已经建立成功">您的帮助中心已经建立成功</a>
+                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="SDK说明">SDK说明</a>
+              </li>
+               <li class="category-nav-article">
+                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="ErrorCode说明">ErrorCode说明</a>
+              </li>
+              <li class="category-nav-article">
+                <a href="https://ken.kf5.com/hc/kb/article/137211/" title="IOS app开发过程中的FAQ">FAQ</a>
               </li>
             </ul>
           </li>
           <li class="category-nav-cate">
-            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79598/" title="常见问题">常见问题</a></div>
+            <div class="cate-title"><a href="https://ken.kf5.com/hc/kb/section/79598/" title="Android开发">Android开发</a></div>
             <ul class="category-nav-articles">
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137212/" title="文章分区和分类是干什么用的？">文章分区和分类是干什么用的？</a>
+                <a href="https://ken.kf5.com/hc/kb/article/137212/" title="概述">概述</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137213/" title="我将如何自定义前台界面？">我将如何自定义前台界面？</a>
+                <a href="https://ken.kf5.com/hc/kb/article/137213/" title="SDK"></a>
               </li>
               <li class="category-nav-article">
-                <a href="https://ken.kf5.com/hc/kb/article/137214/" title="我还有其他问题如何解决？">我还有其他问题如何解决？</a>
+                <a href="https://ken.kf5.com/hc/kb/article/137214/" title="ErrorCode">ErrorCode</a>
+              </li>
+              <li class="category-nav-article">
+                <a href="https://ken.kf5.com/hc/kb/article/137214/" title="FAQ">FAQ</a>
               </li>
             </ul>
           </li>
