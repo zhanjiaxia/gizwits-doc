@@ -53,13 +53,13 @@ var template = (function () {/*
                 <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="概述">概述</a>
               </li>
               <li class="category-nav-article">
-                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="概述">API说明</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138294/" title="概述">API说明</a>
               </li>
                <li class="category-nav-article">
                 <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="js调用的范例">示例</a>
               </li>
                <li class="category-nav-article">
-                <a href="https://gizwits.kf5.com/hc/kb/article/138270/" title="FAQ">FAQ</a>
+                <a href="https://gizwits.kf5.com/hc/kb/article/138296/" title="FAQ">FAQ</a>
               </li>
               
             </ul>
