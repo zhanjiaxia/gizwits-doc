@@ -36,7 +36,7 @@
 }
 
 .category-nav ul {
-  padding: 15px 20px 0;
+  padding: 7px 20px 0;
   font-size: 16px;
 }
 
@@ -45,7 +45,7 @@
 }
 
 .category-nav .zone-title {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
 }
 
@@ -53,11 +53,14 @@
   font-weight: 600;
 }
 
-.category-nav li.category-nav-cate,
 .category-nav li.category-nav-zone {
   margin-bottom: 0;
 }
 
 .content-sidebar .category-nav a.selected-article {
   color: #21D376;
+}
+
+.content-sidebar .category-nav li {
+  margin-bottom: 7px;
 }
