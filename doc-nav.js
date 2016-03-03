@@ -60,7 +60,7 @@ var template = (function () {/*
             </ul>
           </li>
           <li class="category-nav-cate">
-            <div class="cate-title"><a href="https://gizwits.kf5.com/hc/kb/article/138329/" title="OPEN API" class="selected-article">OPEN API</a></div>
+            <div class="cate-title"><a href="https://gizwits.kf5.com/hc/kb/article/138329/" title="OPEN API">OPEN API</a></div>
             <ul class="category-nav-articles">
               <li class="category-nav-article">
                 <a href="https://gizwits.kf5.com/hc/kb/article/138329/" title="概述">概述</a>
