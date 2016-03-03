@@ -37,7 +37,7 @@
 
 .category-nav ul {
   padding: 7px 20px 0;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .category-nav .category-nav-zones {
@@ -53,6 +53,7 @@
   font-weight: 600;
 }
 
+.category-nav li.category-nav-cate,
 .category-nav li.category-nav-zone {
   margin-bottom: 0;
 }
